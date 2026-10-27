@@ -13,7 +13,8 @@ This project demonstrates end-to-end data cleaning, anomaly detection, and data 
 - **Data Integrity:** Verified that `Total Spent` accurately matches `Quantity × Price Per Unit`.
 
 ## 📁 Repository Structure
-- `dirty_cafe_sales.xlsx`: Excel workbook containing raw data, cleaned output, and issue logging sheets.
+- `cleaned_cafe_sales.xlsx`: Excel workbook containing raw data, cleaned output, and issue logging sheets.
+- `dirty_cafe_sales.csv`: The Original Messy Excel workbook.
 
 ## 💡 Key Skills Demonstrated
 - Data Cleaning & Preprocessing
