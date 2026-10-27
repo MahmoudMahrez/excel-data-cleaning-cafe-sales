@@ -1,7 +1,7 @@
 # excel-data-cleaning-cafe-sales
 Data cleaning, missing value handling, and structural standardization of 10,000 retail transactions using Excel
 
-# ☕ Excel Data Cleaning & Audit Project: Café Sales Dataset
+# Excel Data Cleaning Project: Café Sales Dataset
 
 ## 📌 Project Overview
 This project demonstrates end-to-end data cleaning, anomaly detection, and data standardization on a raw retail dataset containing 10,000 transaction records.
